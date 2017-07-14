@@ -1,4 +1,4 @@
 # techidoso.github.io
 Projeto para ajudar idosos com a tecnologia. 
 
-Primeiro projeto <3
+Meu primeiro projeto, feito com 13 anos e muita motivação (e tempo livre) <3
